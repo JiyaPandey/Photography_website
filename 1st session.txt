@@ -1,0 +1,21 @@
+fun csk(a:Int,b:Int) {
+    var trophies:Int?=null
+    trophies=a+b
+    println("csk has $trophies trophies")
+}
+class car(){
+    var modelName:String?=null
+    fun changeGear(){
+        println("gear changed sucessfully")
+    }
+}
+
+
+fun main() {
+    csk(4,3)
+    var parcar=car()
+    parcar.modelName="Range Rover"
+    println(parcar.modelName)
+    parcar.changeGear()
+    
+}

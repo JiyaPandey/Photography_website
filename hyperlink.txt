@@ -1,0 +1,5 @@
+<html>
+<head><title>hyperlink</title>
+</head>
+<a href= "link.html"> CLICK HERE </a>
+</html>
